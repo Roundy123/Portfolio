@@ -26,6 +26,10 @@ h1, h2 {
   fill: #4784ED;
 }
 
+.bar:hover {
+  fill: red;
+}
+
 .empty-bar {
   fill: #d8d8d8;
 }
