@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/piano/static/css/main.17df8a06.chunk.css",
+    "main.js": "/Portfolio/piano/static/js/main.cfa4af6d.chunk.js",
+    "main.js.map": "/Portfolio/piano/static/js/main.cfa4af6d.chunk.js.map",
+    "runtime-main.js": "/Portfolio/piano/static/js/runtime-main.ef44ce99.js",
+    "runtime-main.js.map": "/Portfolio/piano/static/js/runtime-main.ef44ce99.js.map",
+    "static/js/2.a633351c.chunk.js": "/Portfolio/piano/static/js/2.a633351c.chunk.js",
+    "static/js/2.a633351c.chunk.js.map": "/Portfolio/piano/static/js/2.a633351c.chunk.js.map",
+    "index.html": "/Portfolio/piano/index.html",
+    "precache-manifest.b71c4b086c77ec530bd1d9ca9cfb2094.js": "/Portfolio/piano/precache-manifest.b71c4b086c77ec530bd1d9ca9cfb2094.js",
+    "service-worker.js": "/Portfolio/piano/service-worker.js",
+    "static/css/main.17df8a06.chunk.css.map": "/Portfolio/piano/static/css/main.17df8a06.chunk.css.map",
+    "static/js/2.a633351c.chunk.js.LICENSE.txt": "/Portfolio/piano/static/js/2.a633351c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef44ce99.js",
+    "static/js/2.a633351c.chunk.js",
+    "static/css/main.17df8a06.chunk.css",
+    "static/js/main.cfa4af6d.chunk.js"
+  ]
+}
