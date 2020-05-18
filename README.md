@@ -1,6 +1,8 @@
-# Portfolio Projects
+# Portfolio Project
 
-## NLP Text Classification
+<hr />
+
+### NLP Text Classification
 
 [Live version](https://spacy-nlp-flask.herokuapp.com/)
 
@@ -14,8 +16,9 @@
 - Flask
 - Machine Learning
 - NLP (natural language processing)
+  <hr />
 
-## Chat App
+### Chat App
 
 [Live version](https://chat-app-socketio-mern.herokuapp.com/)
 
@@ -26,8 +29,9 @@
 - MERN stack - MongoDB, Express, React & Node
 - Socket.io
 - Bootstrap
+  <hr />
 
-## React Piano
+### React Piano
 
 [Live version](https://piano-react.herokuapp.com/)
 
@@ -39,11 +43,13 @@
 - HTML
 - CSS
 - Javascript
+  <hr />
 
-## Youtube Video Queuer (COMMING SOON!)
+### Youtube Video Queuer (COMMING SOON!)
 
 #### Technologies:
 
 - MERN stack - MongoDB, Express, React & Node
 - Socket.io
 - Redux
+  <hr />
